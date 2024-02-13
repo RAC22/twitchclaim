@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Twitch Channel Point Bonus Clicker",
-    "description": "Automatically claim bonus channel points. Whenever the little \"Click to claim a bonus!\" button appears, this extention will click it for you",
+    "description": "Automatically claim bonus channel points. Whenever the little \"Click to claim a bonus!\" button appears, we'll click it for you",
     "version": "0.0.1",
     "icons": {
         "16": "16.png",
